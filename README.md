@@ -43,8 +43,9 @@
 ---
 
 ### 📫 Onde me encontrar
-- 🌐 [Portfólio em construção](https://teusite.com)
+- 🌐 [Portfólio em construção !](https://teusite.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergiosousa-tec/)
+- 📚 [DIO](https://web.dio.me/users/sergioturgeo?tab=achievements)
 - 📧 **sergio.sousa.code@gmail.com**
 
 ---
