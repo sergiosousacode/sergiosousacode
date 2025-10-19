@@ -25,10 +25,10 @@
 <div align="center">
   <!-- substitui as URLs abaixo pelas tuas badges reais da AWS -->
   <a href="https://www.credly.com/users/sergio-sousa.a3cc9f66/badges#credly">
-    <img src="./image/aws-educate-getting-started-with-storage-training-b.png" />
+    <img src="./image/aws-educate-getting-started-with-storage-training-b.png" with="100px" height="100px"/>
   </a>
   <a href="https://www.credly.com/users/sergio-sousa.a3cc9f66/badges#credly">
-    <img src="./image/aws-educate-introduction-to-cloud-101-training-badg.png" />
+    <img src="./image/aws-educate-introduction-to-cloud-101-training-badg.png" with="100px" height="100px"/>
   </a>
 </div>
 
