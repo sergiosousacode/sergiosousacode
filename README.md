@@ -25,10 +25,10 @@
 <div align="center">
   <!-- substitui as URLs abaixo pelas tuas badges reais da AWS -->
   <a href="https://www.credly.com/users/seu-perfil">
-    <img src="https://images.credly.com/size/110x110/images/220e34c2-2346-4b82-b5ae-41d1a8232b5e/image.png" alt="AWS Certified Cloud Practitioner" />
+    <img src="https://www.credly.com/badges/0dac1c1a-c47c-49ad-a631-b8bfd34cd768/linked_in_profile" />
   </a>
   <a href="https://www.credly.com/users/seu-perfil">
-    <img src="https://images.credly.com/size/110x110/images/1e14c92d-3b71-4d51-8b6e-7c379b35e4f7/image.png" alt="AWS Certified Solutions Architect" />
+    <img src="https://www.credly.com/badges/83f35e37-20a0-44ba-9333-9b78656db74d/linked_in_profile" />
   </a>
 </div>
 
