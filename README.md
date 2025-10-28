@@ -43,7 +43,7 @@
 ---
 
 ### 📫 Onde me encontrar
-- 🌐 [Portfólio]([https://teusite.com](https://portifolio-git-main-sergiosousacodes-projects.vercel.app/))
+- 🌐 [Portfólio](https://portifolio-git-main-sergiosousacodes-projects.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergiosousa-tec/)
 - 📚 [DIO](https://web.dio.me/users/sergioturgeo?tab=achievements)
 - 📧 **sergio.sousa.code@gmail.com**
