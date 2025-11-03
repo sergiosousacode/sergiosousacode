@@ -16,7 +16,7 @@
 
 ### 🛠️ Stack e ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,git,github,vscode,figma,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres" />
 </div>
 
 ---
@@ -30,14 +30,6 @@
   <a href="https://www.credly.com/users/sergio-sousa.a3cc9f66/badges#credly">
     <img src="./image/aws-educate-introduction-to-cloud-101-training-badg.png" with="100px" height="100px"/>
   </a>
-</div>
-
----
-
-### 📈 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serjao-pessoal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serjao-pessoal&layout=compact&theme=tokyonight" />
 </div>
 
 ---
