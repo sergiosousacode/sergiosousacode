@@ -1,6 +1,6 @@
 # 👋 Hello guys, I'm Serjão!
 
-# You selected the linguage englis.
+# You have selected the English language.
 - [English](README.en.md)
 - [Português](README.pt.md)
 
