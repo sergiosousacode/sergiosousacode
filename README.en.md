@@ -1,9 +1,8 @@
 # 👋 Hello guys, I'm Serjão!
 
 # You selected the linguage englis.
-- [English](README.md)
+- [English](README.en.md)
 - [Português](README.pt.md)
-- [Español](README.es.md)
 
 💻 Front-End Developer | React • Next.js • TypeScript | REST API | Responsive UI | Node.js | PostgreSQL 🚀
 🐦‍🔥 Clean and SOLID Code
