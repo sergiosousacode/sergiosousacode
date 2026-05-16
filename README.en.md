@@ -61,4 +61,4 @@ I also study software architecture, SOLID principles, and Clean Code for buildin
 ---
 
 > 💬 “Build. Break. Fix. Repeat.”  
-> — Tecnology's lover ☕
+### — Tecnology's lover ☕
