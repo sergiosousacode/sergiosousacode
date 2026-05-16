@@ -1,22 +1,40 @@
 # 👋 Fala aí! Eu sou o Serjão
 
-💻 Desenvolvedor **Front-End** que curte transformar café em código e ideias em interfaces.  
-🚀 Viciado em React, UX e boas práticas.  
+# README em diferentes idiomas
+- [English](README.md)
+- [Português](README.pt.md)
+- [Español](README.es.md)
+
+💻 Desenvolvedor Front-End | React • Next.js • TypeScript | APIs REST | UI Responsiva | Node.js | PostgreSQL 🚀
+🐦‍🔥 Clean Code e SOLID
 ☁️ Certificado pela **AWS** — porque nuvem também é lugar de dev!
 
 ---
 
 ### 🧠 Um pouco sobre mim
-- 🔧 Trabalho com **React**, **Node.js**, **PostgreSQL** e o que mais fizer sentido pro projeto  
-- 🎯 Foco em **usabilidade**, **performance** e **código limpo**  
-- 🎨 Sempre tentando deixar a web mais bonita (e funcional)  
-- 🎧 Quando não tô codando, tô ouvindo podcast de tech ou música pra manter o flow  
+Desenvolvedor web com foco em aplicações Full Stack utilizando React, Next.js, Node.js e PostgreSQL.
+
+Atualmente desenvolvo sistemas web voltados para automação comercial, gestão administrativa e aplicações SaaS, incluindo integração entre frontend, backend, banco de dados e infraestrutura em nuvem.
+
+Tenho experiência prática com:
+- React e Next.js
+- Node.js e Express
+- PostgreSQL
+- Docker
+- AWS EC2
+- APIs REST
+- Git e GitHub
+- Deploy e CI/CD
+
+Clean Code e SOLID
+
+Também estudo arquitetura de software, SOLID e Clean Code para construção de aplicações escaláveis e organizadas.
 
 ---
 
 ### 🛠️ Stack e ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,figma,aws,java,typescript,vscode,eclipse,tailwind,git,github,linux,discord,docker,next" />
 </div>
 
 ---
@@ -43,4 +61,4 @@
 ---
 
 > 💬 “Build. Break. Fix. Repeat.”  
-> — mantra diário de um dev feliz ☕
+> — Tecnology's lover ☕
