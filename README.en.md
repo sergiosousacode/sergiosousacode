@@ -2,7 +2,7 @@
 
 # You have selected the English language.
 - [English](README.en.md)
-- [Português](README.pt.md)
+- [Português](README.md)
 
 💻 Front-End Developer | React • Next.js • TypeScript | REST API | Responsive UI | Node.js | PostgreSQL 🚀
 🐦‍🔥 Clean and SOLID Code
