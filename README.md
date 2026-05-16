@@ -60,4 +60,4 @@ Também estudo arquitetura de software, SOLID e Clean Code para construção de 
 ---
 
 > 💬 “Build. Break. Fix. Repeat.”  
-> — Tecnology's lover ☕
+### — Amante da Tecnologia ☕
