@@ -1,6 +1,6 @@
 # 👋 Fala aí! Eu sou o Serjão
 
-# README em diferentes idiomas
+# Selecione um idioma.
 - [English](README.md)
 - [Português](README.pt.md)
 - [Español](README.es.md)
