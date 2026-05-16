@@ -1,45 +1,46 @@
-# 👋 Fala aí! Eu sou o Serjão
+# 👋 Hello guys, I'm Serjão!
 
-# README em diferentes idiomas
+# you selected the linguage englis.
 - [English](README.md)
 - [Português](README.pt.md)
 - [Español](README.es.md)
 
-💻 Desenvolvedor Front-End | React • Next.js • TypeScript | APIs REST | UI Responsiva | Node.js | PostgreSQL 🚀
-🐦‍🔥 Clean Code e SOLID
-☁️ Certificado pela **AWS** — porque nuvem também é lugar de dev!
+💻 Front-End Developer | React • Next.js • TypeScript | REST API | Responsive UI | Node.js | PostgreSQL 🚀
+🐦‍🔥 Clean and SOLID Code
+☁️ AWS Certified — because the cloud is also a place for devs!
 
 ---
 
-### 🧠 Um pouco sobre mim
-Desenvolvedor web com foco em aplicações Full Stack utilizando React, Next.js, Node.js e PostgreSQL.
+### 🧠 A little about me
+Web developer focused on Full Stack applications using React, Next.js, Node.js, and PostgreSQL.
 
-Atualmente desenvolvo sistemas web voltados para automação comercial, gestão administrativa e aplicações SaaS, incluindo integração entre frontend, backend, banco de dados e infraestrutura em nuvem.
+Currently, we develop web systems focused on business automation, administrative management, and SaaS applications, including integration between frontend, backend, database, and cloud infrastructure.
 
-Tenho experiência prática com:
-- React e Next.js
-- Node.js e Express
+I have practical experience with:
+
+- React and Next.js
+- Node.js and Express
 - PostgreSQL
 - Docker
 - AWS EC2
-- APIs REST
-- Git e GitHub
-- Deploy e CI/CD
+- REST API
+- Git and GitHub
+- Deployment and CI/CD
 
-Clean Code e SOLID
+Clean and SOLID Code
 
-Também estudo arquitetura de software, SOLID e Clean Code para construção de aplicações escaláveis e organizadas.
+I also study software architecture, SOLID principles, and Clean Code for building scalable and organized applications.
 
 ---
 
-### 🛠️ Stack e ferramentas
+### 🛠️ Stack and tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,figma,aws,java,typescript,vscode,eclipse,tailwind,git,github,linux,discord,docker,next" />
 </div>
 
 ---
 
-### 🏅 Minhas Badges AWS
+### 🏅 My Badges AWS
 <div align="center">
   <!-- substitui as URLs abaixo pelas tuas badges reais da AWS -->
   <a href="https://www.credly.com/users/sergio-sousa.a3cc9f66/badges#credly">
@@ -52,7 +53,7 @@ Também estudo arquitetura de software, SOLID e Clean Code para construção de 
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Where to find me.
 - 🌐 [Portfólio](https://portifoliosergiosousacode.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sergiosousa-tec/)
 - 📚 [DIO](https://web.dio.me/users/sergioturgeo?tab=achievements)
