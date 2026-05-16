@@ -1,8 +1,8 @@
 # 👋 Fala aí! Eu sou o Serjão
 
 # Selecione um idioma.
-- [English](README.md)
-- [Português](README.pt.md)
+- [English](README.en.md)
+- [Português](README.md)
 - [Español](README.es.md)
 
 💻 Desenvolvedor Front-End | React • Next.js • TypeScript | APIs REST | UI Responsiva | Node.js | PostgreSQL 🚀
