@@ -3,7 +3,6 @@
 # Selecione um idioma.
 - [English](README.en.md)
 - [Português](README.md)
-- [Español](README.es.md)
 
 💻 Desenvolvedor Front-End | React • Next.js • TypeScript | APIs REST | UI Responsiva | Node.js | PostgreSQL 🚀
 🐦‍🔥 Clean Code e SOLID
