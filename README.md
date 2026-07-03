@@ -33,7 +33,7 @@ Também estudo arquitetura de software, SOLID e Clean Code para construção de 
 
 ### 🛠️ Stack e ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,figma,aws,java,typescript,vscode,eclipse,tailwind,git,github,linux,discord,docker,next" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,figma,aws,java,typescript,vscode,eclipse,tailwind,git,github,linux,discord,docker,next,debian" />
 </div>
 
 ---
